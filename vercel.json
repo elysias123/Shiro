@@ -86,6 +86,10 @@
         {
           "key": "Cloudflare-CDN-Cache-Control",
           "value": "max-age=30"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
         }
       ]
     },
